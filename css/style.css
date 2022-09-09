@@ -1,0 +1,66 @@
+/* overall style = används i alla */
+
+body {
+    background-color: bisque;
+    margin-top: 100px;
+}
+
+header{
+    border: solid 2px yellow;
+    height: 50px;
+}
+
+article{
+    border: solid 2px black;
+    height: 500px;
+    margin-top: 10px;
+}
+
+footer{
+    border: 2px solid brown;
+    height: 75px;
+}
+
+a{
+    margin-right: 20px;
+    margin-left: 20px;
+}
+a:hover{
+    cursor: pointer;
+    background-color: aliceblue;
+}
+
+/* Index specific css */
+
+#namn{
+ margin-top: auto;
+ margin-left: 50%;
+ font-family: 'Courier New', Courier, monospace;
+ color: purple;
+}
+
+#selfie{
+    margin:auto;
+}
+
+#quote{
+    margin-top: 10%;
+}
+
+/* konkakta mig sidan */
+
+#titel{
+    
+    margin-top: auto;
+    margin-left: 50%;
+    font-family: 'Courier New', Courier, monospace;
+    color: purple;
+}
+
+#form{
+    margin-top: 10%;
+    margin-left: 10%;
+}
+
+/* Inspirations sidan */
+
